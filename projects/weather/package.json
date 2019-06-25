@@ -1,0 +1,12 @@
+{
+  "name": "@psalguerodev/weather",
+  "version": "1.0.0",
+  "private": false,
+  "peerDependencies": {
+    "@angular/common": "^8.0.1",
+    "@angular/core": "^8.0.1",
+    "@angular/animations": "^8.0.2",
+    "@angular/cdk": "^8.0.1",
+    "@angular/material": "^8.0.1"
+  }
+}

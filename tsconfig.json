@@ -24,6 +24,12 @@
       ],
       "calc/*": [
         "dist/calc/*"
+      ],
+      "auth": [
+        "dist/auth"
+      ],
+      "auth/*": [
+        "dist/auth/*"
       ]
     }
   }
